@@ -45,11 +45,13 @@ new CropImageLayout(context);
 if has other question， can contact me by my weibo,blog,email:
 
 blog： [http://blog.isming.me](http://blog.isming.me)
+
 Weibo: [@码农明明桑](http://weibo.com/mingmingsang)
+
 E-Mail: linming1007@gmail.com
 
 
->> 写英文好痛苦
+>>写英文好痛苦
 
 ## License
     Copyright 2014 isming.me
